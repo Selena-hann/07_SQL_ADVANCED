@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=IOCsreDYqFE&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 
 ## 1. MySQL의 데이터 형식
 
-'''
+```
 전화번호는 모두 숫자로 이루어져서 정수형으로 지정해야 할 것 같지만, CHAR로 지정되어 있다.
 이유는 전화번호가 숫자로서 의미가 없기 때문이다.
 숫자로서 의미를 가지려면
@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=IOCsreDYqFE&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 둘 중에 한가지는 충족해야 한다.
 
 형식 변환 함수: CAST(), CONVERT()
-'''
+```
 
 <img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/90d62c56-5332-4696-8cda-f95fc60f7a6c" />
 
@@ -72,13 +72,13 @@ CONVERT(), CAST()
 
 ## 2. 두 테이블을 묶는 조인
 
-'''
+```
 일대다 관계: 한쪽 테이블에는 하나의 값만, 다른 쪽 테이블에는 여러 개의 값 존재 가능
 내부 조인: 두 테이블 조인 시, 두 테이블에 모두 지정한 열의 데이터가 있어야 함.
 외부 조인: 두 테이블 조인 시, 1개의 테이블에만 데이터가 있어도 결과가 나옴.
 상호 조인: 한쪽 테이블의 모든 행과 다른 쪽 테이블의 모든 행을 조인시킴.
 자체 조인: 자신과 조인 된다는 의미로, 1개의 테이블 사용.
-'''
+```
 
 <img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/83674668-d3ee-4cd4-a4d7-fbb0272e3819" />
 <img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/a32f019b-317d-4904-b084-dfa0a8579e2e" />
@@ -112,13 +112,13 @@ LEFT OUTER JOIN을 하면 member 테이블의 모든 회원이 결과에 남고,
 
 ## 3. SQL 프로그래밍 
 
-'''
+```
 IF문: 참일 때 수행하는 IF, 참과 거짓일 때 각각 다른 부분이 수행되는 IF~ELSE
 변수는 DECLARE로 선언하고, SET으로 값을 대입함.
 CASE 문은 2가지 이상일 때 처리 가능함. '다중 분기'
 WHILE문: 조건식이 참인 동안에는 계속 반복함. WHILE문을 계속 실행하는 ITERATE와 WHILE문을 빠져나가는 LEAVE로 사용 가능함.
 PREPARE은 SQL문을 실행하지 않고 미리 준비해놓고, EXECUTE는 준비한 SQL문을 실행함.
-'''
+```
 
 > **확인문제: 다음은 CASE 문의 형식입니다. 빈칸에 들어갈 가장 적절한 명령어를 보기에서 고르세요..**
 
