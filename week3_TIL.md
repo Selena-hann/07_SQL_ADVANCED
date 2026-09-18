@@ -54,6 +54,7 @@ https://www.youtube.com/watch?v=IOCsreDYqFE&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 
 형식 변환 함수: CAST(), CONVERT()
 '''
+
 <img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/90d62c56-5332-4696-8cda-f95fc60f7a6c" />
 
 
@@ -78,6 +79,7 @@ CONVERT(), CAST()
 상호 조인: 한쪽 테이블의 모든 행과 다른 쪽 테이블의 모든 행을 조인시킴.
 자체 조인: 자신과 조인 된다는 의미로, 1개의 테이블 사용.
 '''
+
 <img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/83674668-d3ee-4cd4-a4d7-fbb0272e3819" />
 <img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/a32f019b-317d-4904-b084-dfa0a8579e2e" />
 <img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/9b379ff8-1a24-4cfc-87aa-ecad76069022" />
