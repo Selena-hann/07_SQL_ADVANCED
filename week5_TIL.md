@@ -153,7 +153,11 @@ INSERT INTO employees VALUES
 
 인덱스 생성 결과, EXPLAIN 실행 결과, 인덱스 삭제 결과가 모두 보이도록 캡처하여 제출하세요.
 
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/d31824d1-251a-47c7-9b0e-9bc4b4e7e18f" />
+
+<img width="1092" height="1038" alt="image" src="https://github.com/user-attachments/assets/323bc0ae-265b-4972-885b-9056f5bface1" />
+
+<img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/45651fd9-7ce0-4444-8b05-9e033b22cb31" />
 
 ### 🎉 수고하셨습니다.
 
