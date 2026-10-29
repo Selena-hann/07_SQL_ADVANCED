@@ -52,9 +52,9 @@ https://www.youtube.com/watch?v=bggWVsBmKag&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 - 출력 매개변수는 스토어드 프로시저에서 계산된 결과를 돌려받는다. 형식은 OUT을 앞에 붙인다.
 - 동적 SQL은 다이나믹하게 SQL을 생성한 후 실행한다. PREPARE문과 EXECUTE 문을 사용한다.
 
-<!-- 이번 챕터에서는 확인문제를 실습 인증으로 대체하여 진행합니다. 제시된 실습을 흐름에 맞게 진행한 후, 실습 과정이 보일 수 있도록 인증 사진을 2장 이상 제출해 주세요. -->
+<img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/353568b7-61be-4886-b4f2-997c84a2e4b9" />
 
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/2c87df23-94c1-4fc5-ac38-3642b99716ef" />
 
 
 ## 2. 스토어드 함수와 커서 
