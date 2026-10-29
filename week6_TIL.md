@@ -65,9 +65,9 @@ https://www.youtube.com/watch?v=bggWVsBmKag&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 - 커서는 한 행씩 처리되도록 하는 기능이다. DECLARE로 선언할 수 있으며, 그 내용은 SELECT문이다.
 - 커서는 행이 끝날 때까지 계속 반복한다. 행의 끝을 판단하기 위해 변수 endOfRow를 준비하고 TRUE 값인지 체크하는 방식을 사용한다.
 
-<!-- 이번 챕터에서는 확인문제를 실습 인증으로 대체하여 진행합니다. 제시된 실습을 흐름에 맞게 진행한 후, 실습 과정이 보일 수 있도록 인증 사진을 2장 이상 제출해 주세요. -->
+<img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/91856a91-5b7f-4066-8a4d-c6c3d6c9aa50" />
 
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/e0aba38e-d706-4564-8e1c-96b1d63d7c1c" />
 
 
 ## 3. 자동 실행되는 트리거 
