@@ -77,9 +77,9 @@ https://www.youtube.com/watch?v=bggWVsBmKag&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 - 트리거는 행 데이터가 삭제 또는 수정되면 기존 데이터를 백업 테이블에 저장하도록 할 수 있다.
 - 트리거에서 기존 데이터는 OLD 테이블에, 새로운 데이터는 NEW 테이블에 잠깐 저장된다. OLD 및 NEW 테이블은 MySQL이 내부적으로 관리한다.
 
-<!-- 이번 챕터에서는 확인문제를 실습 인증으로 대체하여 진행합니다. 제시된 실습을 흐름에 맞게 진행한 후, 실습 과정이 보일 수 있도록 인증 사진을 2장 이상 제출해 주세요. -->
+<img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/61bf3ed1-1e5f-4913-b9ef-e626e1969440" />
 
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1136" height="1082" alt="image" src="https://github.com/user-attachments/assets/e0b6bd4d-0fca-4f14-a73c-d4a7143d3d4a" />
 
 
 ---
