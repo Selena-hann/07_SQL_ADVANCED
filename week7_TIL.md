@@ -47,7 +47,10 @@ https://www.youtube.com/watch?v=aiMSluMNzI8&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 
 <!-- 이번 챕터에서 제시된 실습을 흐름에 맞게 진행한 후, 실습 과정이 보일 수 있도록 인증 사진을 2장 이상 제출해 주세요. -->
 
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="839" height="748" alt="image" src="https://github.com/user-attachments/assets/ed5266f7-202d-490d-8b48-d56f2ff06311" />
+
+<img width="722" height="679" alt="image" src="https://github.com/user-attachments/assets/bef6ee05-b0d3-42e9-bed9-6ea94f785a6f" />
+
 
 
 ## 2. 파이썬과 MySQL의 연동
@@ -59,7 +62,10 @@ https://www.youtube.com/watch?v=aiMSluMNzI8&list=PLVsNizTWUw7GCfy5RH27cQL5MeKYnl
 
 ## 3. GUI 응용 프로그램 
 
-<!-- GUI 응용 프로그램에 관해 배우게 된 점을 적어주세요. -->
+- GUI는 윈도를 제공함으로써 사용자가 편리하게 데이터베이스에 접근하도록 도와주는 환경을 말한다.
+- tkinter는 파이썬에서 GUI를 만들기 위해 제공되는 라이브러리이다.
+- 라벨은 윈도에 문자를 표현하고, 버튼은 클릭하는 기능을 제공한다.
+- 프레임은 화면을 나누는 기능이고, 엔트리는 입력 상자를 제공한다. 리스트 박스는 여러 건의 목록을 표현하는 기능이다.
 
 
 ---
